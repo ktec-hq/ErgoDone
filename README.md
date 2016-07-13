@@ -1,4 +1,5 @@
-# ErgoDox_pro_micro_edition
-ErgoDox using pro micro. Original work by Dox. Brainhole association present.
+# ErgoDone
+
+Original work by Dox. K.T.E.C. present.
 # Lisence
 GPL v3
