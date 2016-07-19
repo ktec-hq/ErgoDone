@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:ErgoDOX-rescue
 LIBS:component
 LIBS:74xgxx
 LIBS:74xx
@@ -985,13 +984,13 @@ COL9
 $Comp
 L VCC #PWR015
 U 1 1 500D1293
-P 1950 1300
-F 0 "#PWR015" H 1950 1400 30  0001 C CNN
-F 1 "VCC" H 1950 1400 30  0000 C CNN
-F 2 "" H 1950 1300 60  0001 C CNN
-F 3 "" H 1950 1300 60  0001 C CNN
-	1    1950 1300
-	0    1    1    0   
+P 750 3000
+F 0 "#PWR015" H 750 3100 30  0001 C CNN
+F 1 "VCC" H 750 3100 30  0000 C CNN
+F 2 "" H 750 3000 60  0001 C CNN
+F 3 "" H 750 3000 60  0001 C CNN
+	1    750  3000
+	0    -1   -1   0   
 $EndComp
 $Comp
 L ANYTHING S1
@@ -1470,7 +1469,7 @@ F 3 "" H 1350 2600 60  0000 C CNN
 	1    1350 2600
 	1    0    0    -1  
 $EndComp
-NoConn ~ 750  3000
+NoConn ~ 1950 1300
 $Comp
 L C C1
 U 1 1 57825DD2
