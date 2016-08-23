@@ -3,7 +3,7 @@
   (general
     (links 356)
     (no_connects 0)
-    (area 22.890479 30.289499 206.108301 189.542421)
+    (area 22.890479 27.985719 206.108301 189.542421)
     (thickness 1.6002)
     (drawings 47)
     (tracks 1661)
@@ -4247,10 +4247,10 @@
       (net 19 GND))
   )
 
-  (gr_line (start 93.853 34.925) (end 93.853 37.719) (angle 90) (layer F.Mask) (width 2.54) (tstamp 57BC49B8))
-  (gr_line (start 78.867 37.211) (end 78.867 40.005) (angle 90) (layer F.Mask) (width 2.54) (tstamp 57BC4982))
-  (gr_line (start 93.853 37.211) (end 93.853 40.005) (angle 90) (layer B.Mask) (width 2.54) (tstamp 57BC4923))
-  (gr_line (start 78.613 34.925) (end 78.613 37.719) (angle 90) (layer B.Mask) (width 2.54))
+  (gr_line (start 93.943 34.805) (end 93.943 37.599) (angle 90) (layer F.Mask) (width 2.54) (tstamp 57BC49B8))
+  (gr_line (start 78.747 37.381) (end 78.747 40.175) (angle 90) (layer F.Mask) (width 2.54) (tstamp 57BC4982))
+  (gr_line (start 93.973 37.391) (end 93.973 40.185) (angle 90) (layer B.Mask) (width 2.54) (tstamp 57BC4923))
+  (gr_line (start 78.713 34.795) (end 78.713 37.589) (angle 90) (layer B.Mask) (width 2.54))
   (gr_line (start 156.337 46.863) (end 160.655 46.863) (angle 90) (layer B.SilkS) (width 0.3048))
   (gr_line (start 141.965 38.265) (end 142.065 38.265) (angle 90) (layer F.Mask) (width 0.3048))
   (gr_text "USB\n" (at 158.877 42.799 90) (layer B.SilkS)
