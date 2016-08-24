@@ -1,10 +1,12 @@
-(module 100PITCH1X3 (layer F.Cu) (tedit 57BC237F)
+(module 100PITCH1X3 (layer F.Cu) (tedit 57BD3F02)
   (fp_text reference J4 (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.524 1.778) (thickness 0.127)))
   )
   (fp_text value JMP (at 0 3.048) (layer F.SilkS) hide
     (effects (font (size 1.524 1.778) (thickness 0.2032)))
   )
+  (fp_line (start 2.54 0) (end 0 0) (layer B.Mask) (width 2))
+  (fp_line (start -2.54 0) (end 0 0) (layer F.Mask) (width 2))
   (fp_line (start 0 1.27) (end 2.54 1.27) (layer B.SilkS) (width 0.3))
   (fp_line (start 0 -1.27) (end 2.54 -1.27) (layer B.SilkS) (width 0.3))
   (fp_arc (start 2.54 0) (end 3.81 0) (angle 90) (layer B.SilkS) (width 0.3))
