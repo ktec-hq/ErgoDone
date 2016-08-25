@@ -1,1 +1,5 @@
-*.kicad_pcb-bak _autosave-ErgoDOX.kicad_pcb
+*.bak
+*.bck
+*.kicad_pcb-bak
+*-cache.lib
+_autosave-ErgoDOX.kicad_pcb
