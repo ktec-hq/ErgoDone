@@ -1,8 +1,8 @@
-(module TEENSY_2.0 (layer F.Cu) (tedit 501A4641)
+(module ProMicro (layer F.Cu) (tedit 57603C70)
   (fp_text reference U1 (at 0 0) (layer F.SilkS) hide
     (effects (font (size 3.048 2.54) (thickness 0.4572)))
   )
-  (fp_text value TEENSY2.0 (at 0 0) (layer F.SilkS)
+  (fp_text value ProMicro (at 0 0) (layer F.SilkS)
     (effects (font (size 3.048 2.54) (thickness 0.4572)))
   )
   (fp_line (start -15.24 -8.89) (end -15.24 8.89) (layer Dwgs.User) (width 0.381))

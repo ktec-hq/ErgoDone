@@ -1,4 +1,4 @@
-update=7/10/2016 9:41:07 AM
+update=17.4.8 22:29:39
 version=1
 last_client=kicad
 [general]
@@ -32,7 +32,7 @@ LibName1=footprint
 version=1
 LibDir=../ErgoDox_pro_micro_edition
 [eeschema/libraries]
-LibName1=ErgoDOX-rescue
+LibName1=ErgoDone-rescue
 LibName2=component
 LibName3=74xgxx
 LibName4=74xx
@@ -111,3 +111,5 @@ LibName76=video
 LibName77=Xicor
 LibName78=xilinx
 LibName79=Zilog
+LibName80=ErgoDone-cache
+LibName81=promicro

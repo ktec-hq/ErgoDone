@@ -1,0 +1,10 @@
+(module DIODE_SX (layer F.Cu) (tedit 58E8F6CA)
+  (fp_text reference D1:7 (at 0 -2) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.2032)))
+  )
+  (fp_text value D (at 0 -2) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.2032)))
+  )
+  (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask))
+  (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask))
+)

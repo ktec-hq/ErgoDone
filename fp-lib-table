@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ErgoDone)(type KiCad)(uri "$(KIPRJMOD)/ErgoDone.pretty")(options "")(descr ""))
+)
